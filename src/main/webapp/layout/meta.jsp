@@ -10,6 +10,8 @@
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="msvalidate.01" content="85F1174D2B8597541F129AB8E988FABE" />
+<meta name="google-site-verification" content="napebtbsQzvnakgby-mHoTcsOS9BWl39dn95z9DUtvg" />
 <link href="jumbotron.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/favicon.ico" rel="icon"
 	type="image/x-icon" />
