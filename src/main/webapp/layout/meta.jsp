@@ -63,7 +63,6 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 	background-color: #00BBCC;
 	background-image: none;
 	border-color: #00BBCC;
-	filter: none;
 }
 
 .cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2
